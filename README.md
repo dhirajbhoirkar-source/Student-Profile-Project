@@ -1,5 +1,12 @@
-<h2>Student Profile Project</h2>
+# Student Profile Project
 
+## About
+This project is a simple student profile webpage created using HTML.
 
-<p>This project is a student profile webpage created using HTML. It displays basic student information such as name, college, and course.
-</p>
+## Technologies Used
+- HTML
+- Git
+- GitHub
+
+## Author
+Dhiraj Bhoirkar
